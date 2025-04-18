@@ -75,7 +75,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Менеджер в ресторане
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -103,59 +103,58 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Музыка
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: music
+      - name: Искусство
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: painting
+      - name: Психология
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: eye
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Чтение
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: pen
+      - name: Компьютерные игры
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: personal-computer
+      - name: Фотографирование
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Русский
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Корейский
+    percent: 55
+  - name: Английский
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Диплом с отличием (Менеджмент)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: Ногинский колледж
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Диплом музыкальной школы
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
-    awarder: edX
+    awarder: Черноголовская школа искусств
     icon: edx
     summary: |
       Learned:
