@@ -1,0 +1,4 @@
+[submodule "publics"]
+	path = publics
+	url = git@github.com:aimalinina/aimalinina.github.io.git
+	branch = main
