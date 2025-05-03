@@ -88,7 +88,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-21
     summary: |
       Responsibilities include:
       - Транскрибация интервью
