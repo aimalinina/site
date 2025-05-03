@@ -35,7 +35,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/aimalinina
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -63,40 +63,36 @@ education:
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Курс управления персоналом
+      - Кулинарное искусство и технологии
+      - Курс подготовки сомелье
+      - Сервис и гостеприимство
 work:
   - position: Менеджер в ресторане
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2024-07-02
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Организация работы персонала
+      - Управление оерационной деятельностью
+      - Финансовое управление
+      - Маркетинг и продвижение
+      - Отчетность и документация
+  - position: Транскрибатор 
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-06-31
+    summary: |
+      Responsibilities include:
+      - Транскрибация интервью
+      - Транскрибация лекций
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,15 +101,15 @@ skills:
     items:
       - name: Музыка
         description: ''
-        percent: 80
-        icon: music
-      - name: Искусство
+        percent: 100
+        icon: note
+      - name: Рисование
         description: ''
         percent: 100
-        icon: painting
+        icon: palette
       - name: Психология
         description: ''
-        percent: 40
+        percent: 80
         icon: eye
   - name: Hobbies
     color: '#eeac02'
@@ -127,7 +123,7 @@ skills:
         description: ''
         percent: 100
         icon: personal-computer
-      - name: Фотографирование
+      - name: Фотография
         description: ''
         percent: 80
         icon: camera
@@ -139,6 +135,8 @@ languages:
     percent: 55
   - name: Английский
     percent: 80
+  - name: Испанский
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -147,30 +145,32 @@ languages:
 awards:
   - title: Диплом с отличием (Менеджмент)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2024-06-25'
     awarder: Ногинский колледж
     icon: coursera
     summary: |
   - title: Диплом музыкальной школы
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2022-07-01'
     awarder: Черноголовская школа искусств
     icon: edx
     summary: |
       Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      - Основы игры на гитаре
+      - Чтение но и табулатуры
+      - Аккорды и их прогрессии
+      - Импровизация и создание музыки
+  - title: Исследовательский проект на тему "Влияния корейской волны на современную молодежь
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+    date: '2024-06-21'
+    awarder: 
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+     В проекте рассматривается феномен корейской волны (Hallyu) и ее влияние на современную молодежь как в Корее так и за её пределами.
 ---
 
 ## About Me
 
-Добро пожаловать на персональный сайт Анастасии Малининой. Приятного ознакомления! 
+Малинина Анастасия - студентка факультета Физико-Математических и Естественных наук Российского Университета Дружбы Народов
+Добро пожаловать на персональный сайт. Приятного ознакомления! 
