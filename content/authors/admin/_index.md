@@ -71,7 +71,7 @@ education:
       - Сервис и гостеприимство
 work:
   - position: Менеджер в ресторане
-    company_name: X
+    company_name: Ресторан 'Семёнов'
     company_url: ''
     company_logo: ''
     date_start: 2021-09-01
@@ -84,7 +84,7 @@ work:
       - Маркетинг и продвижение
       - Отчетность и документация
   - position: Транскрибатор 
-    company_name: X
+    company_name: Самозянятость
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
@@ -157,10 +157,10 @@ awards:
     summary: |
       Learned:
       - Основы игры на гитаре
-      - Чтение но и табулатуры
+      - Чтение нот и табулатуры
       - Аккорды и их прогрессии
       - Импровизация и создание музыки
-  - title: Исследовательский проект на тему "Влияния корейской волны на современную молодежь
+  - title: Исследовательский проект на тему "Влияния корейской волны на современную молодежь"
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2024-06-21'
