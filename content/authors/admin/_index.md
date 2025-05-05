@@ -151,7 +151,7 @@ awards:
     summary: |
   - title: Диплом музыкальной школы
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2022-07-01'
+    date: '2022-07-02'
     awarder: Черноголовская школа искусств
     icon: edx
     summary: |
