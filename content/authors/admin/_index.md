@@ -29,11 +29,11 @@ organizations:
 profiles:
   - icon: brands/book
     url: https://www.elibrary.ru/author_info.asp?isold=1
-  - icon: brands/google
+  - icon: brands/microsoft
     url: https://myaccount.google.com/?hl=ru
-  - icon: brands/write
+  - icon: brands/node
     url: https://orcid.org/my-orcid?orcid=0009-0001-7547-8119
-  - icon: brands/chemistry
+  - icon: brands/atom
     url: https://www.mendeley.com/settings/account/
   - icon: academicons/google-scholar
     url: https://independent.academia.edu/seokiri
