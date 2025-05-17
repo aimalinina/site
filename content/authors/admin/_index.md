@@ -27,22 +27,19 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/aimalinina
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: brands/book
+    url: https://www.elibrary.ru/author_info.asp?isold=1
+  - icon: brands/google
+    url: https://myaccount.google.com/?hl=ru
+  - icon: brands/write
+    url: https://orcid.org/my-orcid?orcid=0009-0001-7547-8119
+  - icon: brands/chemistry
+    url: https://www.mendeley.com/settings/account/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://independent.academia.edu/seokiri
+  - icon: brands/github
+    url: https://github.com/seokiri
+ 
 interests:
   - Музыка
   - Искусство
