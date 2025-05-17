@@ -27,13 +27,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/book
+  - icon: at-symbol
     url: https://www.elibrary.ru/author_info.asp?isold=1
   - icon: brands/microsoft
     url: https://myaccount.google.com/?hl=ru
-  - icon: brands/node
+  - icon: brands/x
     url: https://orcid.org/my-orcid?orcid=0009-0001-7547-8119
-  - icon: brands/atom
+  - icon: brands/linkedin
     url: https://www.mendeley.com/settings/account/
   - icon: academicons/google-scholar
     url: https://independent.academia.edu/seokiri
